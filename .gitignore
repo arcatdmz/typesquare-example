@@ -13,5 +13,8 @@ node_modules/
 # parcel cache directory
 .cache
 
+# parcel output directory
+dist
+
 # Yarn Integrity file
 .yarn-integrity
