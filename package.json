@@ -1,0 +1,11 @@
+{
+  "name": "typesquare-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arcatdmz/typesquare-example.git",
+  "author": "Jun Kato <i@junkato.jp>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build --out-dir docs index.html"
+  }
+}
