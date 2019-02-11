@@ -6,6 +6,6 @@
   "author": "Jun Kato <i@junkato.jp>",
   "license": "MIT",
   "scripts": {
-    "build": "parcel build --public-url ./typesquare-example/ index.html"
+    "build": "parcel build --public-url ./ index.html"
   }
 }
